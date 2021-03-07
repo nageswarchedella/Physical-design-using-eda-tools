@@ -74,3 +74,18 @@ d4sk2 q9
 
 d4sk2 q10
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q10.png" width = 700>
+
+
+
+# Day5
+routing
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day5/routing.png" width = 700>
+
+
+sta log
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day5/d5sk2-mcq1.JPG" width = 700>
+
+
+post sta
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day5/d5sk2-mcq2.JPG" width = 700>
+
