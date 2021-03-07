@@ -60,9 +60,6 @@ d4sk1 q7
 d4sk1 q8
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk1%20q8.png" width = 700>
 
-d4sk2 q10
-<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q10.png" width = 700>
-
 d4sk2 q6
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q6.png" width = 700>
 
@@ -73,3 +70,7 @@ d4sk2 q8
 
 d4sk2 q9
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q9.png" width = 700>
+
+
+d4sk2 q10
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q10.png" width = 700>
