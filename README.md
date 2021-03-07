@@ -23,6 +23,10 @@ cloning git repository
 finding area
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/area%20calculation.png" width = 700>
 
+day2 
+chip area
+<img src=https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/day2%20quiz.png" width=700>
+
 # Day3
 train1
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day3/tran1.png" width = 700>
