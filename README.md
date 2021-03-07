@@ -4,7 +4,7 @@ A SOC/Physical Design workshop using open source EDA tools by VSD.
 The aim of this repository is to understand the basics of Physical Design which includes floor planning, placement and routing, chip design flow and its applications in the field of VLSI (Very Large Scale Integration) using open source EDA tools. 
 
 The total workshop is divided into 5 days with lab activities on each day as follows
-#Day1
+# Day1 & 2 
 using yosys command
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/yosys.png" width = 700>
 
