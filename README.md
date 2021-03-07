@@ -25,7 +25,7 @@ finding area
 
 day2 
 chip area
-<img src=https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/day2%20quiz.png" width=700>
+<img src="https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/day2%20quiz.png" width=700>
 
 # Day3
 train1
