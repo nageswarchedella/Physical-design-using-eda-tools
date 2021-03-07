@@ -48,3 +48,28 @@ d3sk3 q4
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day3/d3sk3%20q4.png" width = 700>
 d3sk3 q5
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day3/d3sk3%20q5.png" width = 700>
+
+#day 4
+
+d4sk1 q6
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk1%20q6.png" width = 700>
+
+d4sk1 q7
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk1%20q7.png" width = 700>
+
+d4sk1 q8
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk1%20q8.png" width = 700>
+
+d4sk1 q10
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk1%20q10.png" width = 700>
+
+d4sk2 q6
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q6.png" width = 700>
+
+
+d4sk2 q8
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q8.png" width = 700>
+
+
+d4sk2 q8
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q9.png" width = 700>
