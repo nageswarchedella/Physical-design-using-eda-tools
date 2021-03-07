@@ -75,7 +75,8 @@ d4sk2 q9
 d4sk2 q10
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q10.png" width = 700>
 
-
+d4sk2 q11
+<img src="https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk2%20q14.png" width=700>
 
 # Day5
 routing
