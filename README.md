@@ -49,7 +49,7 @@ d3sk3 q4
 d3sk3 q5
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day3/d3sk3%20q5.png" width = 700>
 
-#day 4
+# Day 4
 
 d4sk1 q6
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day%204/d4sk1%20q6.png" width = 700>
