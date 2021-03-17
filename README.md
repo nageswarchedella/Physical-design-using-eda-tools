@@ -22,8 +22,6 @@ Type the command “yosys” to open ‘yosys open synthesis tool’.
  
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/yosys.png" width = 700>
 
-
-  -> Type "which sta" to see the ‘sta tool’s’ directory.
   
   -> git clone https://github.com/kunalg123/vsdflow.git.
   
@@ -31,7 +29,9 @@ Type the command “yosys” to open ‘yosys open synthesis tool’.
   
 cloning git repository
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/cloning%20git%20repository.png" width = 700>
- 
+
+ -> Type "which sta" to see the ‘sta tool’s’ directory.
+
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/sta%20path.png" width = 700>
 
 
@@ -53,16 +53,55 @@ Commands
 
 
 
-
-finding area
+  -> cd outdir_spi_slave
+  
+  -> qflow display spi_slave
+  
+   It will open 2 windows "layout1" and "tkcon" On "tkcon" window, type "box". And we can see dimensions of the box we selected.
+  
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/area%20calculation.png" width = 700>
 
 
-day2 
-chip area
+# DAY2 : Chip planning and introduction to foundry library cells.
+
+
+
+* Theory :
+1. Concepts of Utilization Factor & Aspect Ratio. 
+2. Concept of Preplaced Cells, Decoupling Capacitors, AND Power Planning.
+3. Pin placement & logical cell placement blockage.
+4. Netlist Binding & initial place design.
+5. Placement Optimization using estimated wire-length & capacitance.
+6. Need for libraries And Logic Design Flow.
+7. Cell Design Flow.
+8. Circuit Design.
+9. Layout Design And Characterization Flow.
+10.Timing Chracterization and Propagation Delay.
+
+Commands
+  -> cd vsdflow/my_picorv32
+  
+  -> qflow display picorv32 &
+  
+   This will open layout and tkcon window In the layout window, select whole chip using below steps Take cursor to bottom left. Left mouse click. Take cursor to top right. Right mouse click. Press Shift+i. This will select the whole layout Now in tkcon window, type below command
+   
+  -> box.  And we can see dimensions of the box we selected.
 <img src="https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/day2%20quiz.png" width=700>
 
-# Day3
+# DAY3 : SPICE Simulation and CMOS fabrication Process.
+
+
+
+* Theory :
+1. SPICE Deck creation for CMOS inverter.
+2. SPICE Simulation for CMOS inverter.
+3. Static & Dyanmic Simulation of CMOS.
+4. Layout using Euler's Path and Stick Diagram.
+5. Script to create layout in MAGIC.
+6. Final layout & input/output labelling.
+7. Post layout ngspice.
+8. 16-MASK CMOS Process.
+
 trainsistor characteristics
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day3/tran1.png" width = 700>
 
