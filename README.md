@@ -1,28 +1,57 @@
 # Physical-design-using-eda-tools
-A SOC/Physical Design workshop using open source EDA tools by VSD.
+This repository is to give brief idea about the VSD's 'Beginner Soc/Physical Design using open source EDA tools' Workshop. The workshop gives me a hands on experience with the EDA tools used in Physical Design.
 
-This repository is to understand the basics of Physical Design which includes floor planning, placement and routing, chip design flow and its applications in the field of VLSI (Very Large Scale Integration) using open source EDA tools. 
+* Here are some sources used in this workshop:
+1.YOSYS : Synthesis.
 
+2.Graywolf :Placement.
+
+3.Qrouter : Routing.
+
+4.Qflow : RTL2GDS integration.
+
+5.MAGIC : VLSI Layout tool.
+
+6.Netgen : LVS.
+
+7.OpenSTA & Opentimer : Prelayout & postlayout Static Timing Analysis.
 The total workshop is divided into 5 days with lab activities on each day as follows
-# Day1 & 2 
-using yosys command
+# Day1 & 2 Labs
+
+Type the command “yosys” to open ‘yosys open synthesis tool’.
+ 
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/yosys.png" width = 700>
 
 
-sta path
+  -> Type "which sta" to see the ‘sta tool’s’ directory.
+  
+  -> git clone https://github.com/kunalg123/vsdflow.git.
+  
+  -> command to clone the vsdflow.
+  
+cloning git repository
+<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/cloning%20git%20repository.png" width = 700>
+ 
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/sta%20path.png" width = 700>
 
 
-finding registers percentage
+This image shows the number of regiesters used in the design by using Qflow
+
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/registers%20percentage.png" width = 700>
 
-
-creating files
+Commands
+  -> cd vsdflow
+  
+  -> ./vsdflow spi_slave_design_details.csv
+  
+  -> ls -ltr outdir_spi_slave/
+  
+  -> ls -ltr outdir_spi_slave | wc
+   and here can see the total created files
+   
 <img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/files%20creation.png" width = 700>
 
 
-cloning git repository
-<img src = "https://github.com/nageswarchedella/Physical-design-using-eda-tools/blob/main/day1/cloning%20git%20repository.png" width = 700>
 
 
 finding area
